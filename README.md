@@ -1,3 +1,13 @@
+### 🔍 Example Output Screenshot
+
+![App Screenshot](assets/screenshot1.jpg)
+### 🔍 Example Output Screenshot
+
+![App Screenshot](assets/screenshot2.jpg)
+### 🔍 Example Output Screenshot
+
+![App Screenshot](assets/screenshot3.jpg)
+
 # 🧢 Multi-Brand Product Price Aggregator
 
 This project is a **T-shirt Price Aggregator** built using **Python, Streamlit**, and **Playwright**. It scrapes and displays products from three popular Indian fashion websites:
@@ -61,3 +71,4 @@ This app uses Playwright, which launches a real browser instance (Chromium) to s
 
 ✅ Works on local machine
 ❌ Not supported on Streamlit Cloud because it doesn’t allow launching browsers like Chromium (used by Playwright).
+
